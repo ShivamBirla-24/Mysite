@@ -1,0 +1,38 @@
+
+body{
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: sans-serif;
+}
+h1{
+  margin-top: 0;
+  font-family: 'Sacramento', sans-serif;
+  font-size: 60px;
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+div{
+  background-color: #E8F6EF;
+  padding-top: 50px;
+}
+.top-cloud{
+  position: relative;
+  left:330px;
+  height: 70px;
+}
+.bottom-cloud{
+  position: absolute;
+}
+.profile{
+  width: 200px;
+  height: 300px;
+  object-fit: cover;
+}
+.mid-container{
+  background-color: white;
+  position: relative;
+}
